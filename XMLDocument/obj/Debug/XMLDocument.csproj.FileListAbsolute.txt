@@ -1,0 +1,7 @@
+c:\users\садыковаа\documents\visual studio 2017\Projects\XMLDocument\XMLDocument\bin\Debug\XMLDocument.exe.config
+c:\users\садыковаа\documents\visual studio 2017\Projects\XMLDocument\XMLDocument\bin\Debug\XMLDocument.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\XMLDocument\XMLDocument\bin\Debug\XMLDocument.pdb
+c:\users\садыковаа\documents\visual studio 2017\Projects\XMLDocument\XMLDocument\obj\Debug\XMLDocument.csprojResolveAssemblyReference.cache
+c:\users\садыковаа\documents\visual studio 2017\Projects\XMLDocument\XMLDocument\obj\Debug\XMLDocument.exe
+c:\users\садыковаа\documents\visual studio 2017\Projects\XMLDocument\XMLDocument\obj\Debug\XMLDocument.pdb
+c:\users\садыковаа\documents\visual studio 2017\Projects\XMLDocument\XMLDocument\bin\Debug\Teg.xml
